@@ -1,0 +1,76 @@
+#container{
+    width: 935px;
+    margin: 0 auto;
+}
+div{
+    border: 1px solid black;
+    margin: 10px;
+    padding: 10px;
+}
+#header{
+    width: 890px;
+    height: 100px;
+    padding: 0;
+}
+#sidebar{
+    width: 180px;
+    height: 500px;
+    float: left;
+}
+#content{
+    width: 670px;
+    height: 500px;
+    float: left;
+}
+#footer{
+    width: 893px;
+    height: 50px;
+    clear: left;
+}
+#header img{
+    width: 445px;
+    height: 100px;
+}
+
+#zeven{
+    width: 150px;
+    height: 15px;
+    float: right;
+}
+
+#zes{
+    width: 100px;
+    height: 100px;
+    float:right;
+}
+
+#vijf{
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+
+#vier{
+    width: 130px;
+    height: 100px;
+    clear: both;
+}
+
+#drie{
+    width: 40px;
+    height: 40px;
+    margin-right: 19px;
+    float: right;
+}
+
+#twee{
+    width: 40px;
+    height: 40px;
+    float: left;
+}
+
+#een{
+    width: 130px;
+    height: 30px;
+    clear: both;
+}
